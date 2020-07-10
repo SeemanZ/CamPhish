@@ -7,7 +7,7 @@ trap 'printf "\n";stop' 2
 banner() {
 clear
 printf "\e[1;92m  My Heart SrZ  \e[0m\e[1;77m I Love My Hacking \e[0m\n"
-printf "\e[1;92m Hacking Very Easy\e[0m\e[1;77m Love Me \e[0m\n"
+printf "\e[1;92m  Hacking Very Easy\e[0m\e[1;77m Love Me \e[0m\n"
 
 
 printf " \e[1;77m www.NoAddress.net | NoServer \e[0m \n"
