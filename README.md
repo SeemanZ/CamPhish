@@ -27,5 +27,4 @@ apt-get -y install php openssh git wget
 ```
 git clone https://github.com/SeemanZ/CamPhish.git
 cd CamPhish
-bash camphish.sh
-
+bash SmnZ.sh
